@@ -44,4 +44,5 @@ A aplicação estará disponível em:
 Caso tenha dúvidas, sugestões ou queira contribuir:
 
 💼 Gabriele Soares Quevedo
+
 📧 gsquevedo@inf.ufsm.br
